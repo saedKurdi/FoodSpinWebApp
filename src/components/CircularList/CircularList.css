@@ -1,0 +1,60 @@
+.circular-list-container {
+  position: relative;
+  width: 565px; /* Adjust container size */
+  height: 565px; /* Adjust container size */
+  margin: 50px auto; /* Center the container */
+  border: 2px dashed orangered;
+  border-radius: 50%;
+  transform: rotate(-20deg);
+  z-index: 200;
+}
+
+.item-list {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: antiquewhite;
+  transform-origin: center center;
+  transform: rotate(20deg);
+  transition: transform 0.5s ease; /* Smooth transition for rotation */
+}
+
+.item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform-origin: center center;
+  border-radius: 50%; /* Make it round */
+  width: 135px;
+  height: 135px;
+  background-color: transparent;
+  overflow: hidden;
+}
+
+.item-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image fills the circle */
+  transform: rotate(90deg);
+}
+
+/* .selected {
+  border: 7px solid black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+} */
+
+.control-buttons {
+  position: absolute;
+  display: flex;
+  align-items: end;
+  gap: 150px;
+  right: 4%;
+  bottom: -25%;
+  z-index: 400;
+
+  i {
+    cursor: pointer;
+    font-size: 33px;
+  }
+}

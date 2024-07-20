@@ -1,0 +1,250 @@
+{
+  "products": {
+    "BreakfastFood": [
+      {
+        "id": "1",
+        "name": "Pancakes",
+        "disclosure": "Fluffy pancakes with maple syrup",
+        "price": 5.99,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Pancakes.png",
+        "quantity": 55
+      },
+      {
+        "id": "2",
+        "name": "Omelette",
+        "disclosure": "Three-egg omelette with cheese",
+        "price": 7.99,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Omelette.png",
+        "quantity": 45
+      },
+      {
+        "id": "3",
+        "name": "Fruit Salad",
+        "disclosure": "Fresh seasonal fruit salad",
+        "price": 4.99,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Fruit Salad.png",
+        "quantity": 85
+      },
+      {
+        "id": "4",
+        "name": "Avocado Toast",
+        "disclosure": "Whole grain toast topped with avocado",
+        "price": 6.5,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Avocado Toast.png",
+        "quantity": 105
+      },
+      {
+        "id": "5",
+        "name": "Granola Bowl",
+        "disclosure": "Granola served with yogurt and honey",
+        "price": 5.49,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Granola Bowl.png",
+        "quantity": 205
+      },
+      {
+        "id": "6",
+        "name": "Smoothie",
+        "disclosure": "Mixed berry smoothie with yogurt",
+        "price": 3.99,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Smoothie.png",
+        "quantity": 55
+      },
+      {
+        "id": "7",
+        "name": "French Toast",
+        "disclosure": "French toast with powdered sugar",
+        "price": 6.99,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/French Toast.png",
+        "quantity": 44
+      },
+      {
+        "id": "8",
+        "name": "Bagel with Cream Cheese",
+        "disclosure": "Fresh bagel topped with cream cheese",
+        "price": 2.99,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Bagel with Cream Cheese.png",
+        "quantity": 41
+      },
+      {
+        "id": "9",
+        "name": "Breakfast Burrito",
+        "disclosure": "Burrito filled with eggs, cheese, and salsa",
+        "price": 8.5,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Breakfast Burrito.png",
+        "quantity": 445
+      },
+      {
+        "id": "10",
+        "name": "Chia Pudding",
+        "disclosure": "Chia seeds soaked in almond milk",
+        "price": 4.5,
+        "image": "src/assets/images/foodImages/breakfastFoodImages/Chia Pudding.png",
+        "quantity": 200
+      }
+    ],
+    "LunchFood": [
+      {
+        "id": "11",
+        "name": "Caesar Salad",
+        "disclosure": "Classic Caesar salad with croutons",
+        "price": 9.99,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Caesar Salad.png",
+        "quantity": 25
+      },
+      {
+        "id": "12",
+        "name": "Grilled Chicken Sandwich",
+        "disclosure": "Chicken breast with lettuce and tomato",
+        "price": 10.99,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Grilled Chicken Sandwich.png",
+        "quantity": 55
+      },
+      {
+        "id": "13",
+        "name": "Veggie Burger",
+        "disclosure": "Plant-based burger with avocado",
+        "price": 11.49,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Veggie Burger.png",
+        "quantity": 15
+      },
+      {
+        "id": "14",
+        "name": "Sushi Roll",
+        "disclosure": "Fresh sushi rolls with wasabi",
+        "price": 12.99,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Sushi Roll.png",
+        "quantity": 100
+      },
+      {
+        "id": "15",
+        "name": "Pasta Primavera",
+        "disclosure": "Pasta with fresh vegetables",
+        "price": 9.5,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Pasta Primavera.png",
+        "quantity": 100
+      },
+      {
+        "id": "16",
+        "name": "Quinoa Bowl",
+        "disclosure": "Quinoa with black beans and corn",
+        "price": 8.99,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Quinoa Bowl.png",
+        "quantity": 300
+      },
+      {
+        "id": "17",
+        "name": "Chicken Tacos",
+        "disclosure": "Soft tacos with grilled chicken",
+        "price": 10.5,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Chicken Tacos.png",
+        "quantity": 105
+      },
+      {
+        "id": "18",
+        "name": "Caprese Salad",
+        "disclosure": "Tomato, mozzarella, and basil salad",
+        "price": 7.99,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Caprese Salad.png",
+        "quantity": 500
+      },
+      {
+        "id": "19",
+        "name": "Falafel Wrap",
+        "disclosure": "Falafel in a wrap with veggies",
+        "price": 8.5,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Falafel Wrap.png",
+        "quantity": 122
+      },
+      {
+        "id": "20",
+        "name": "Beef Stir Fry",
+        "disclosure": "Stir fry with beef and mixed vegetables",
+        "price": 13.99,
+        "image": "src/assets/images/foodImages/lunchFoodImages/Beef Stir Fry.png",
+        "quantity": 190
+      }
+    ],
+    "DinnerFood": [
+      {
+        "id": "21",
+        "name": "Grilled Salmon",
+        "disclosure": "Salmon fillet with lemon butter sauce",
+        "price": 15.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Grilled Salmon.png",
+        "quantity": 201
+      },
+      {
+        "id": "22",
+        "name": "Steak",
+        "disclosure": "Juicy steak with garlic mashed potatoes",
+        "price": 19.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Steak.png",
+        "quantity": 195
+      },
+      {
+        "id": "23",
+        "name": "Vegetable Stir Fry",
+        "disclosure": "Mixed vegetables stir fried with soy sauce",
+        "price": 14.5,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Vegetable Stir Fry.png",
+        "quantity": 183
+      },
+      {
+        "id": "24",
+        "name": "Pasta Carbonara",
+        "disclosure": "Classic pasta carbonara with bacon",
+        "price": 13.5,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Pasta Carbonara.png",
+        "quantity": 300
+      },
+      {
+        "id": "25",
+        "name": "Chicken Alfredo",
+        "disclosure": "Creamy Alfredo sauce with chicken",
+        "price": 14.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Chicken Alfredo.png",
+        "quantity": 285
+      },
+      {
+        "id": "26",
+        "name": "Vegetarian Pizza",
+        "disclosure": "Pizza topped with fresh vegetables",
+        "price": 11.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Vegetarian Pizza.png",
+        "quantity": 272
+      },
+      {
+        "id": "27",
+        "name": "Shrimp Tacos",
+        "disclosure": "Tacos filled with grilled shrimp",
+        "price": 16.5,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/ShrimpTacos.png",
+        "quantity": 55
+      },
+      {
+        "id": "28",
+        "name": "Stuffed Peppers",
+        "disclosure": "Peppers stuffed with rice and meat",
+        "price": 12.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Stuffed Peppers.png",
+        "quantity": 25
+      },
+      {
+        "id": "29",
+        "name": "Mushroom Risotto",
+        "disclosure": "Creamy risotto with mushrooms",
+        "price": 13.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/Mushroom Risotto.png",
+        "quantity": 100
+      },
+      {
+        "id": "30",
+        "name": "BBQ Ribs",
+        "disclosure": "Tender ribs with BBQ sauce",
+        "price": 17.99,
+        "image": "src/assets/images/foodImages/dinnerFoodImages/BBQ Ribs.png",
+        "quantity": 105
+      }
+    ]
+  }
+}
